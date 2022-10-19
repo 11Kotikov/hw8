@@ -14,3 +14,5 @@ int num = Convert.ToInt32(Console.ReadLine());
 int result = SecondNumber(num);
 Console.WriteLine ($"You typed {num} and your second digit is {result} ");
 */
+//Задача 2 (13): Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
+
