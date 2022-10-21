@@ -15,7 +15,7 @@ Console.WriteLine ($"You typed {num} and your second digit is {result} ");
 */
 
 //Задача 2 (13): Напишите программу, которая выводит третью цифру заданного числа или сообщает, что третьей цифры нет.
-
+/*
 int ThirdDigit(int x)
 {
    
@@ -45,4 +45,9 @@ int ThirdDigit(int x)
 Console.WriteLine("input a positive number pls");
 int x = Convert.ToInt32(Console.ReadLine());
 int result = ThirdDigit(x);
-
+*/
+// Задача (3) 15: Напишите программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным.
+int weekEnds ()
+{
+    
+}
